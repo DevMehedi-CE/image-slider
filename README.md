@@ -1,2 +1,1 @@
-# image-slider
-image-slider with js
+https://snazzy-babka-fcc9b4.netlify.app/
